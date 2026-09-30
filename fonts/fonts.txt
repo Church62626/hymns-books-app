@@ -1,1 +1,0 @@
-this folder will contains all the fonts needed for Hymns Book app this will be the storgae for those fonts.
